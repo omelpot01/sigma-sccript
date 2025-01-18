@@ -1,5 +1,5 @@
 if getgenv().Enabled then
-	warn("Romel Hub is already running! |", "Failed")
+	warn("sigma Hub is already running! |", "Failed")
 	return
 end
 
